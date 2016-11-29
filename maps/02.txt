@@ -1,0 +1,10 @@
+13 09 02
+XXXXXXXXXXXXX
+X...........X
+X..J........X
+X.....X..G..X
+X..M..X.....X
+X.....X..G..X
+X..J........X
+X...........X
+XXXXXXXXXXXXX
